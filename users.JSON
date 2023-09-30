@@ -1,0 +1,63 @@
+{
+    "000000000": {
+        "username": "username",
+        "first_name": "Firstname",
+        "second_name": "Secondname",
+        "notifications": [
+            {
+                "notification1": {
+                    "notification_text": "Повідомлення 1",
+                    "notification_data": "На початку місяця"
+                }
+            },
+            {
+                "notification2": {
+                    "notification_text": "Повідомлення 2",
+                    "notification_data": "В кінці місяця"
+                }
+            },
+            {
+                "notification3": {
+                    "notification_text": "Повідомлення 3",
+                    "notification_data": "Пн"
+                }
+            },
+            {
+                "notification4": {
+                    "notification_text": "Повідомлення 3",
+                    "notification_data": "Вт"
+                }
+            },
+            {
+                "notification5": {
+                    "notification_text": "Повідомлення 3",
+                    "notification_data": "Ср"
+                }
+            },
+            {
+                "notification6": {
+                    "notification_text": "Повідомлення 3",
+                    "notification_data": "Чт"
+                }
+            },
+            {
+                "notification7": {
+                    "notification_text": "Повідомлення 3",
+                    "notification_data": "Пт"
+                }
+            },
+            {
+                "notification8": {
+                    "notification_text": "Повідомлення 3",
+                    "notification_data": "Сб"
+                }
+            },
+            {
+                "notification9": {
+                    "notification_text": "Повідомлення 3",
+                    "notification_data": "Нд"
+                }
+            }
+        ]
+    }
+}
