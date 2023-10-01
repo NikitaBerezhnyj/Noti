@@ -42,7 +42,7 @@ async def start(message: types.Message):
 # Команда /help
 @dp.message_handler(commands=['help'])
 async def help_command(message: types.Message):
-    await message.answer("Я маю такі команди для вас, як:\n/help - інформація про функції\n/info - кількість днів до попередження\n/add_notification - додати нове повідомлення\n/remove_notification - видалити повідомлення\n/edit_notification - редагувати повідомлення\n/clear_chat - видалення особистої інформації")
+    await message.answer("Я маю такі команди для вас, як:\n/help - інформація про функції\n/info - кількість днів до попередження\n/add_notification - додати нове повідомлення\n/remove_notification - видалити повідомлення\n/edit_notification - редагувати повідомлення\n/remove_user - видалення особистої інформації")
 
 # Функції для визначення кількості днів до визначеного дня
 def Monday_check(today_weekday, notification_day):
