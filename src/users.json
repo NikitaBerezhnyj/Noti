@@ -1,0 +1,72 @@
+{
+  "000000000": {
+    "username": "username",
+    "first_name": "Firstname",
+    "second_name": "Secondname",
+    "notifications": [
+      {
+        "notification1": {
+          "notification_text": "Повідомлення 1",
+          "notification_data": "На початку місяця",
+          "notification_day": null
+        }
+      },
+      {
+        "notification2": {
+          "notification_text": "Повідомлення 2",
+          "notification_data": "В кінці місяця",
+          "notification_day": null
+        }
+      },
+      {
+        "notification3": {
+          "notification_text": "Повідомлення 3",
+          "notification_data": "Кожен день",
+          "notification_day": null
+        }
+      },
+      {
+        "notification4": {
+          "notification_text": "Повідомлення 4",
+          "notification_data": "У визначений день тижня",
+          "notification_day": "Пн"
+        }
+      },
+      {
+        "notification5": {
+          "notification_text": "Повідомлення 5",
+          "notification_data": "У визначений день тижня",
+          "notification_day": "Вт"
+        }
+      },
+      {
+        "notification6": {
+          "notification_text": "Повідомлення 6",
+          "notification_data": "У визначений день тижня",
+          "notification_day": "Ср"
+        }
+      },
+      {
+        "notification7": {
+          "notification_text": "Повідомлення 7",
+          "notification_data": "У визначений день тижня",
+          "notification_day": "Чт"
+        }
+      },
+      {
+        "notification8": {
+          "notification_text": "Повідомлення 8",
+          "notification_data": "У визначений день тижня",
+          "notification_day": "Пт"
+        }
+      },
+      {
+        "notification9": {
+          "notification_text": "Повідомлення 9",
+          "notification_data": "У визначений день тижня",
+          "notification_day": "Сб"
+        }
+      }
+    ]
+  }
+}
